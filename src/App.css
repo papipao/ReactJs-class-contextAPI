@@ -70,6 +70,7 @@ body {
 
 ul {
   list-style-type: none;
+  padding: 40px;
 }
 
 a {
@@ -192,10 +193,6 @@ img {
   }
 }
 
-.container {
-  text-align: center;
-  margin-top: 5rem;
-}
 .btn {
   display: inline-block;
   background: var(--clr-primary-5);

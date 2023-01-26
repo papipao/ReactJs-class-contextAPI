@@ -1,5 +1,5 @@
 import './App.css';
-import Counter from './components/functional/counter/Counter';
+import Counter from './components/class/counter/Counter';
 
 function App() {
   return (

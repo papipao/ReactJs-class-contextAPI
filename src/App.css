@@ -187,10 +187,19 @@ img {
   max-width: var(--max-width);
 }
 
+.container {
+  text-align: center;
+}
+
 @media screen and (min-width: 992px) {
   .section {
     width: 95vw;
   }
+}
+
+.container {
+  text-align: center;
+  margin-top: 5rem;
 }
 
 .btn {

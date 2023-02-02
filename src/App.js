@@ -1,10 +1,10 @@
 import './App.css';
-import Counter from './components/class/counter/Counter';
+import FormList from './components/class/form/FormList';
 
 function App() {
   return (
     <div>
-      <Counter />
+      <FormList />
     </div>
   );
 }

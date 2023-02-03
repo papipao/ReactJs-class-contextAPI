@@ -1,10 +1,10 @@
 import './App.css';
-import FormList from './components/class/form/FormList';
+import Form from './components/functional/form/Form';
 
 function App() {
   return (
     <div>
-      <FormList />
+      <Form />
     </div>
   );
 }

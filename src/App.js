@@ -1,10 +1,10 @@
 import './App.css';
-import Form from './components/functional/form/Form';
+import User from './components/functional/useReducer/User';
 
 function App() {
   return (
     <div>
-      <Form />
+      <User />
     </div>
   );
 }

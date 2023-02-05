@@ -1,10 +1,10 @@
 import './App.css';
-import User from './components/functional/useReducer/User';
+import PropDrilling from './components/functional/propDrilling/PropDrilling';
 
 function App() {
   return (
     <div>
-      <User />
+      <PropDrilling />
     </div>
   );
 }
